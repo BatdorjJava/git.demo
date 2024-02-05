@@ -1,0 +1,3 @@
+things to do:
+- fix git problem
+- fix git origin
